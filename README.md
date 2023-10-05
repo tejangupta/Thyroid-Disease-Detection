@@ -10,12 +10,6 @@ The main objective of this project is to predict if a person is having compensat
 ## For Bulk Prediction
 Heroku: https://thypred.herokuapp.com/
 
-# Demo
-
-https://user-images.githubusercontent.com/72372136/134773017-d9d26150-0e68-4c2d-8627-b3a64beeac9b.mp4
-
-
-
 
 # Technical Aspects
 
